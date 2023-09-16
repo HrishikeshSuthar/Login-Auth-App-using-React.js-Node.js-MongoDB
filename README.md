@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 
 This Login Authentication App offers a solid foundation for implementing user authentication in your web applications. It uses JSON Web Tokens (JWT) for secure user authentication and authorization.
 
-##Features
+## Features
 
 User registration with email and password
 
